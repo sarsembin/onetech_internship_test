@@ -8,7 +8,7 @@
 English:1
 ```
 
-![Screenshot](https://github.com/alikhanmurzayev/onetech_internship_test/acmp/img.png?raw=true "acmp.ru")
+![Screenshot](img.png?raw=true "acmp.ru")
 
 Подсказки:
 * https://golang.org/pkg/net/http/#NewRequest
